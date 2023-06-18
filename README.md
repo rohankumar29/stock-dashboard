@@ -1,3 +1,3 @@
 # stock-dashboard
 
-Barebones stock risk analysis using python. Intraday_volatility houses all the functions using for main monte_carlo script. 
+Super barebones Python script to compute potential portfolio outcomes via yfinance package and Monte Carlo simulation. Will be a) make script more dynamic b) Tweak Monte Carlo simuation & add more complexity to project
